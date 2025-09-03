@@ -1,2 +1,3 @@
 ﻿# Sign-Language-detection
-![image alt](https://github.com/KommuriVaishnavi/Sign-Language-detection/blob/54b852e32bab7b610042707a071a4946e3961393/Screenshot%202025-09-03%20113157.png)
+
+
